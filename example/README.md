@@ -1,1 +1,1 @@
-Word Pair example app from flutter.dev
+word pair example app from flutter.dev
